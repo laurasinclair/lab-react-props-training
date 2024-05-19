@@ -8,10 +8,10 @@ function IdCard({ lastName, firstName, gender, height, birth, picture }) {
 
 				<div>
 					<p>
-						<strong>First name:</strong> {lastName}
+						<strong>First name:</strong> {firstName}
 					</p>
 					<p>
-						<strong>Last name:</strong> {firstName}
+						<strong>Last name:</strong> {lastName}
 					</p>
 					<p>
 						<strong>Gender</strong> {gender}
